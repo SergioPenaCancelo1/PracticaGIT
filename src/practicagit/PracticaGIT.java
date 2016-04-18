@@ -63,7 +63,7 @@ public class PracticaGIT {
                     System.out.println("Número aleatorio: "+Math.random()*100);
                     break;
                 case 0:
-                    System.out.println("FIN DEL PROGRAMA");
+                    System.out.println("FIN DEL PROGRAMAA");
             }
             }
         while (r!=0);
